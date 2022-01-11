@@ -18,5 +18,5 @@ before do
 end
 
 get "/" do
-  "hello world!"
+  "Hello, world!"
 end
